@@ -39,4 +39,4 @@ Desenvolver uma interface simples de cartão de perfil utilizando apenas HTML e 
 1. Clone o repositório:
 
 ```bash
-git clone git clone https://github.com/josecarlos006/ProfileCard.git
+git clone https://github.com/josecarlos006/ProfileCard.git
