@@ -30,6 +30,10 @@ O objetivo foi praticar conceitos fundamentais de HTML e CSS, incluindo:
 
 Desenvolver uma interface simples de cartão de perfil utilizando apenas HTML e CSS, sem frameworks ou bibliotecas externas.
 
+## 🌐 Projeto online
+
+[Ver projeto](https://josecarlos006.github.io/ProfileCard/)
+
 ## 💻 Como executar
 
 1. Clone o repositório:
