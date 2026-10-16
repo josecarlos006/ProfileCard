@@ -2,6 +2,8 @@
 
 Um cartão de perfil desenvolvido com HTML e CSS puro como parte da minha jornada de aprendizado em desenvolvimento Front-end.
 
+**[Acessar o projeto online](https://josecarlos006.github.io/ProfileCard/)**
+
 ## 📸 Preview
 
 <img src="digital.jpeg" alt="Profile Card" width="150">
@@ -29,10 +31,6 @@ O objetivo foi praticar conceitos fundamentais de HTML e CSS, incluindo:
 ## 🎯 Objetivo
 
 Desenvolver uma interface simples de cartão de perfil utilizando apenas HTML e CSS, sem frameworks ou bibliotecas externas.
-
-## 🌐 Projeto online
-
-[Ver projeto](https://josecarlos006.github.io/ProfileCard/)
 
 ## 💻 Como executar
 
